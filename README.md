@@ -1,9 +1,9 @@
 # Udacity-fullstack-project-final
-Deploy the item catalog project ( https://github.com/stevelee87/Udacity-fullstack-project2 ) hosted in an AWS LightSail running Ubuntu and using PostgreSQL
+Deploy the [item catalog project](https://github.com/stevelee87/Udacity-fullstack-project2) hosted in an AWS LightSail running Ubuntu and using PostgreSQL
 
 ## 1 Introduction
 
-Please first refer to the Project 2 to understand how this web app works. This project is meant to focus only in to deploy this project 2 web app into the web using an AWS LightSail instance of Ubuntu 18.4 with the listed below requirements.
+Please first refer to the [Project 2](https://github.com/stevelee87/Udacity-fullstack-project2) to understand how this web app works. This project is meant to focus only in deploying this project 2 web app into the web using an AWS LightSail instance of Ubuntu 18.4 with the listed below requirements.
 
 From Udacity's website:
 
